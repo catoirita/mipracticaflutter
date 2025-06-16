@@ -75,6 +75,7 @@ class RegistrationFormScreen extends StatelessWidget {
               ],
             )
         ),
+
       ),
     );
   }
